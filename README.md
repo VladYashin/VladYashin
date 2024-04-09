@@ -8,6 +8,5 @@ I'm a Data Scientist & AI Engineer, constantly exploring the cutting edge of Mac
 - 🛡️ Creator of **[Guardy](https://t.me/GuardyShieldBot)** - a leading Telegram community assistant with focus on security & seamless group management
 - 🎙️ Ex-Host of **[The Futurisity Podcast](https://archive.org/details/@vlad_yashin)** (Archive)
 - 💬 Read my blog **[here](https://iamvladyashin.com/blog)**
-- 📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/vlad-yashin/)**, **[𝕏](https://twitter.com/iamvladyashin)** or via my **[Website](https://iamvladyashin.com/)**.
 
 Apart from my professional work, I enjoy hiking, reading, piano playing, poker, fencing, & fishing.
